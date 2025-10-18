@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": "28df",
+      "title": "My first title",
+      "body": "Lorem ipsum omet dolor",
+      "likes": 3
+    },
+    {
+      "id": "b11a",
+      "title": "second post",
+      "body": "content 2"
+    },
+    {
+      "id": "dc91",
+      "title": "post 3",
+      "body": "content 3",
+      "likes": 0
+    },
+    {
+      "id": "1b34",
+      "title": "sfsdf",
+      "body": "sfsf",
+      "likes": 0
+    },
+    {
+      "id": "2c82",
+      "title": "sdfsf ",
+      "body": "sdfsdf sf sf. ",
+      "likes": 0
+    },
+    {
+      "id": "02e5",
+      "title": "111111",
+      "body": "22222",
+      "likes": 0
+    },
+    {
+      "id": "d000",
+      "title": "33333",
+      "body": "33333",
+      "likes": 0
+    },
+    {
+      "id": "285f",
+      "title": "4444",
+      "body": "44444",
+      "likes": 0
+    }
+  ],
+  "staticData1": {
+    "text": "2Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  "staticData2": {
+    "text": "2Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  },
+  "staticData3": {
+    "text": "2Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  }
+}
